@@ -6,10 +6,9 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ### DASHBOARD RELATÓRIO DE VENDAS 
 
-<p align="center">
-    <imag width="470" src="Prática_aulas/Power BI - Animação - Imgur.gif">
-</p>
-    
+
+![Dashboard Relatório de Vendas](https://github.com/arturcosta86/power_bi_analyst/assets/134213087/2febfd09-32a9-40a8-a2b3-9eca4cab092b)
+
 Acesse o dashboard completo no POWER BI ONLINE [neste link](https://app.powerbi.com/groups/me/reports/c99ff8fc-d3d5-4293-a894-4db9b44c3198/fd3797faef51c0fc1357?language=pt-BR&experience=power-bi&ownerId=8647d4d1-04d0-4c1a-8a4f-bf49d3e82ad6&referrer=embed.appsource)
 
 #### Estrutura da base de dados
